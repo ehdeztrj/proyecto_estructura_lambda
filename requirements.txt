@@ -1,0 +1,4 @@
+# Dependencias del proyecto
+# Compatible con Python >= 3.8
+# Este proyecto utiliza exclusivamente la librería estándar de Python.
+# No se requieren paquetes externos adicionales vía pip.

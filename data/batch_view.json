@@ -1,0 +1,23 @@
+{
+  "total_transacciones": 1000,
+  "total_vendido": 456000.0,
+  "ticket_promedio": 456.0,
+  "clientes_unicos": 1000,
+  "ventas_por_categoria": {
+    "Clothing": 155580.0,
+    "Beauty": 143515.0,
+    "Electronics": 156905.0
+  },
+  "ventas_por_genero": {
+    "Male": 223160.0,
+    "Female": 232840.0
+  },
+  "unidades_por_categoria": {
+    "Clothing": 894,
+    "Beauty": 771,
+    "Electronics": 849
+  },
+  "categoria_top": "Electronics",
+  "watermark": "2024-01-01",
+  "transaction_id_max": 1000
+}
